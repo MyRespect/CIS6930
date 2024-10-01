@@ -1,0 +1,62 @@
+# Site settings
+course_name: Trustworthy AI Systems
+course_description: "Welcome to Trustworthy AI Systems!
+
+This course is more than just a deep dive into the principles of artificial intelligence; it is an exploration of the ethical, technical, and societal dimensions that define the future of technology. As we stand in a new era of AI, the need for systems that are not only intelligent but also reliable, ethical, and secure has never been more urgent.
+
+In this course, you will develop not just technical expertise but also a mindset that embraces critical thinking, ethical reasoning, and a commitment to lifelong learning. You will explore how to design AI systems that people can trust—systems that are transparent, fair, and capable of making decisions that positively impact society.
+
+By the end of this course, you will sharpen your problem-solving abilities by tackling real-world AI challenges. Your communication skills will be enhanced as you learn to explain complex technical concepts to diverse audiences. And you will develop a strong sense of equity and inclusion, understanding how to build AI systems that are fair and accessible to all.
+
+Let us embark on this journey together to build a future where AI enhances the human experience. Welcome to the future of AI!
+
+"
+course_semester: "Fall 2024"
+
+baseurl: "/CIS6930" # the subpath of your site, e.g. /blog/
+url: "https://myrespect.github.io/" # the base hostname & protocol for your site
+
+schoolname: "University of South Florida"
+schoolurl: "https://usf.edu"
+twitter_username: 
+
+address: |
+    Department of Computer Science
+    University of South Florida
+    Tampa, Florida
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

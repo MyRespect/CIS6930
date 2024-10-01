@@ -1,0 +1,6 @@
+policies:
+  - Late Homework and Missing Short Presentation are not counted in final grade
+  - For late projects and essays, the penalties will be applied 
+  - Submitted one day late, 20% reduction (original score * 0.8)
+  - Submitted two days late, 50% reduction (original score * 0.5)
+  - Submitted three days late or more, no credit will be given (original score * 0)
