@@ -5,57 +5,50 @@ permalink: /project/
 ---
 
 
-### **Midterm Project Requirements**
+Students are encouraged to form a group of three to implement both the midterm and final projects.
 
-* Objective: Develop an AI application that demonstrates a clear and impactful use case. Your application should solve a specific problem or enhance a process in an innovative way.
+### **Midterm Project**
 
-* Technologies: You are free to choose any AI technologies or frameworks you prefer (e.g., TensorFlow, PyTorch, etc.). Your choice should align with the needs and objectives of your project.
+* Objective: Build an AI application such as object detection, voice conversion, or large language model agent to solve a specific problem or improve existing solutions in an innovative way.
 
-* Functionality: The application must have a functional user interface (UI) or API to demonstrate its capabilities. It should be user-friendly and effectively showcase the AI component's role in solving the problem.
+* Functionality: Have a functional API or user interface to demonstrate its capabilities. It should be user-friendly and effectively showcase the role of AI in solving the problem.
 
 * Documentation: Include a README file with clear instructions on how to run your application.
 
 * Format: Submit your code repository via [GitHub or Canvas] and ensure all files are properly organized and documented.
 
-* Evaluation: Projects will be graded based on innovation, technical complexity, functionality, user experience, and documentation.
+Projects will be graded based on technical contribution, functionality, user experience, and documentation. We encourage you to think creatively and explore diverse applications of AI. Whether it is enhancing healthcare, optimizing supply chains, or developing new entertainment technologies, the possibilities are endless!
 
-We encourage you to think creatively and explore diverse applications of AI. Whether it's enhancing healthcare, improving customer experiences, optimizing supply chains, or developing new entertainment technologies, the possibilities are endless!
+### **Final Project**
 
-### **Final Project Requirements**
-
-* Objective: Following the midterm project, evaluate the AI application based on one specific aspect of trustworthiness:
-    * Fairness and Bias
-    * Transparency and Explainability
-    * Safety and Security
+* Objective: Evaluate the AI application that you have built in the midterm project based on one specific aspect of trustworthiness:
     * Privacy
+    * Fairness and Bias
+    * Safety and Security
     * Reliability and Robustness
-    * Accountability and Compliance
+    * Transparency and Explainability
+    * Accountability and Responsibility
 <br>
 <br/>
-* Evaluation Framework: Develop a framework or methodology to assess the chosen aspect. Your framework should include clear criteria and metrics for evaluation. Refer to existing standards and guidelines where appropriate.
 
-* Analysis: Apply your evaluation framework to the chosen AI application. Provide a detailed analysis of its performance against the trustworthiness criteria. Discuss any shortcomings, potential risks, and areas for improvement.
+* Functionality: Provide a detailed analysis of its performance against the trustworthiness criteria. Discuss any shortcomings, potential risks, and areas for improvement. For example, you can design different attacks to evaluate the potential security and privacy risks in your built AI applications. You can also do benchmark tests on your AI systems to assess the fairness and bias issues in your AI application.
 
 * Documentation: Include a README file with clear instructions on how to run your application.
 
 * Format: Submit your code repository via [GitHub or Canvas] and ensure all files are properly organized and documented.
 
-* Evaluation: Projects will be graded based on innovation, technical complexity, functionality, user experience, and documentation.
+Projects will be graded based on technical contribution, functionality, user experience, and documentation. We encourage you to read research papers, industry reports, and ethical guidelines on AI trustworthiness. Just think critically and creatively about the role of trustworthiness in AI applications.
 
-Be active in accessing academic papers, industry reports, and ethical guidelines on AI trustworthiness, and attend our lectures to explore different aspects of AI ethics and trustworthiness. We encourage you to think critically and creatively about the role of trustworthiness in AI applications. Understanding these dimensions is crucial for developing AI technologies that are ethical, safe, and beneficial to society.
+### **Presentation and Essay**
 
-Feel free to form teams of up to 3 members or work individually. If you have any questions or need further clarification, please do not hesitate to reach out.
+* Midterm Presentation: Describe your midterm project, highlighting the objective, related work, challenges, solutions, and your evaluation progress.
 
-### **Essay and Group Presentation**
-
-* The content of the essay should include both the midterm and final projects:
-
-    * Midterm Project: Provide a detailed account of your midterm project, including the objective, methodology, results, and your evaluation of the project's success. Discuss any challenges you faced and how you overcame them.
-
-    * Final Term Project: Describe your final term project, highlighting the main goals, approach, outcomes, and innovative aspects of your work. Reflect on how your final project built upon or differed from your midterm project.
-
-* Results Analysis: Compare and contrast the two projects in terms of scope, complexity, learning outcomes, and personal growth. Discuss how your understanding of the subject matter evolved from the midterm to the final term project.
-
-* Personal Reflection: Each group member should demonstrate your contribution, the knowledge you gained, and how these experiences have shaped your approach to problem-solving and project management in AI.
-
-* Format: Each group will need to write and submit ONE project essay in at least 6 content pages (excluding references) following the format in [NeurlIPS 2024](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh)
+* Final Presentation: Describe your final term project and discuss how your final project built upon or differed from your midterm project. During the presentation, you should include the motivation, related work, challenges, contributions, and evaluation progress.
+    
+* Essay: Each group will submit ONE project essay in at least 6 content pages (excluding references) following the format in [NeurlIPS 2024](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh). The content of the essay should include both the midterm and final projects. The essay should follow the general structure of a research paper:
+    * Introduction
+    * Related Work
+    * System Design
+    * Evaluation
+    * Conclusion
+    * Acknowledgment: Each group member should explain the individual contribution to both the midterm and final projects.
