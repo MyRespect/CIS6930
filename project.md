@@ -31,7 +31,7 @@ Projects will be graded based on technical contribution, functionality, user exp
 <br>
 <br/>
 
-* Functionality: Provide a detailed analysis of its performance against the trustworthiness criteria. Discuss any shortcomings, potential risks, and areas for improvement. For example, you can design different attacks to evaluate the potential security and privacy risks in your built AI applications. You can also do benchmark tests on your AI systems to assess the fairness and bias issues in your AI application.
+* Functionality: You need to write code to evaluate and analyze its performance against the trustworthiness criteria discussed in the course. For example, you can design different attacks to evaluate the potential security and privacy risks in your built AI applications. You can also do benchmark tests on your AI systems to assess the fairness and bias issues in your AI application.
 
 * Documentation: Include a README file with clear instructions on how to run your application.
 
@@ -43,9 +43,9 @@ Projects will be graded based on technical contribution, functionality, user exp
 
 * Midterm Presentation: Describe your midterm project, highlighting the objective, related work, challenges, solutions, and your evaluation progress.
 
-* Final Presentation: Describe your final term project and discuss how your final project built upon or differed from your midterm project. During the presentation, you should include the motivation, related work, challenges, contributions, and evaluation progress.
+* Final Presentation: Describe your final project, including the motivation, related work, challenges, solutions, and evaluation progress. You may also want to discuss how your final project built upon or differed from your midterm project.
     
-* Essay: Each group will submit ONE project essay in at least 6 content pages (excluding references) following the format in [NeurlIPS 2024](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh). The content of the essay should include both the midterm and final projects. The essay should follow the general structure of a research paper:
+* Essay: Each group will submit ONE project essay in at least 6 content pages (excluding references) following the format in [NeurIPS 2024](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh). The content of the essay should include both the midterm and final projects. The essay should follow the general structure of a research paper:
     * Introduction
     * Related Work
     * System Design
