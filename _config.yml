@@ -1,13 +1,15 @@
 # Site settings
 course_name: Trustworthy AI Systems
-course_description: "Welcome to Trustworthy AI Systems!
-
-This course is more than just a deep dive into the principles of artificial intelligence; it is an exploration of the ethical, technical, and societal dimensions that define the future of technology. As we stand in a new era of AI, the need for systems that are not only intelligent but also reliable, ethical, and secure has never been more urgent.
-
-In this course, you will develop not just technical expertise but also a mindset that embraces critical thinking, ethical reasoning, and a commitment to lifelong learning. You will explore how to design AI systems that people can trust—systems that are transparent, fair, and capable of making decisions that positively impact society.
-
-By the end of this course, you will sharpen your problem-solving abilities by tackling real-world AI challenges. Your communication skills will be enhanced as you learn to explain complex technical concepts to diverse audiences. Let us embark on this journey together to build a future where AI enhances the human experience. Welcome to the future of AI!
-
+course_description: " Welcome to Trustworthy AI Systems! In this course, we will cover learning-based modern AI 
+Systems with exemplary topics in computer vision, natural language processing, and speech systems. Meanwhile, 
+we will discuss how to design AI systems that people can trust—systems that are transparent, fair, secure, 
+private, robust, and capable of making decisions that positively impact society. You will develop not just 
+technical expertise but also a mindset that embraces critical thinking, ethical reasoning, and a commitment 
+to lifelong learning. By the end of this course, you will sharpen your problem-solving abilities by tackling 
+real-world AI challenges. Your communication skills will be enhanced as you learn to explain complex technical 
+concepts to diverse audiences. As we stand in a new era of AI, the need for systems that are not only intelligent 
+but also reliable, ethical, and secure has never been more urgent. Let us embark on this journey together to build a 
+future where AI enhances the human experience!
 "
 course_semester: "Fall 2024"
 
