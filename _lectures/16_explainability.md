@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2024-11-20T18:01:00+4:30
+date: 2025-04-07T18:01:00+4:30
 title: Explainability of AI
 tldr: "An introduction to explainability methods."
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/cis6930_1120.pdf
+    - url: /static_files/cis6930_16.pdf
       name: slides
 ---
 **Suggested Readings:**

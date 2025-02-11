@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2024-11-18T18:01:00+4:30
+date: 2025-04-02T18:01:00+4:30
 title: Robustness of AI
 tldr: "An introduction to uncertainty and robustness."
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/cis6930_1118.pdf
+    - url: /static_files/cis6930_15.pdf
       name: slides
 ---
 **Suggested Readings:**

@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2024-10-16T18:01:00+4:30
+date: 2025-03-12T18:01:00+4:30
 title: Security of AI in Inference
 tldr: "An introduction to adversarial attacks and defenses."
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/cis6930_1016.pdf
+    - url: /static_files/cis6930_11.pdf
       name: slides
 ---
 **Suggested Readings:**

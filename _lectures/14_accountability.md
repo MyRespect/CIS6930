@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2024-11-13T18:01:00+4:30
+date: 2025-03-31T18:01:00+4:30
 title: Accountability of AI
 tldr: "An introduction to accountability, AI-generated content detection and watermarking."
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/cis6930_1113.pdf
+    - url: /static_files/cis6930_14.pdf
       name: slides
 ---
 **Suggested Readings:**
