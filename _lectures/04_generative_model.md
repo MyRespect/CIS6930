@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2024-09-09T18:01:00+4:30
+date: 2025-01-27T18:01:00+4:30
 title: Generative Modeling (Part I)
 tldr: "An introduction to generative adversarial network and neural style transfer."
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/cis6930_0909.pdf
+    - url: /static_files/cis6930_04.pdf
       name: slides
 ---
 **Suggested Readings:**

@@ -15,7 +15,7 @@ Students are encouraged to form a group of three to implement both the midterm a
 
 * Documentation: Include a README file with clear instructions on how to run your application.
 
-* Format: Submit your code repository via [GitHub or Canvas] and ensure all files are properly organized and documented.
+* Format: Submit your code repository via GitHub and ensure all files are properly organized and documented.
 
 Projects will be graded based on technical contribution, functionality, user experience, and documentation. We encourage you to think creatively and explore diverse applications of AI. Whether it is enhancing healthcare, optimizing supply chains, or developing new entertainment technologies, the possibilities are endless!
 
@@ -35,7 +35,7 @@ Projects will be graded based on technical contribution, functionality, user exp
 
 * Documentation: Include a README file with clear instructions on how to run your application.
 
-* Format: Submit your code repository via [GitHub or Canvas] and ensure all files are properly organized and documented.
+* Format: Submit your code repository via GitHub and ensure all files are properly organized and documented.
 
 Projects will be graded based on technical contribution, functionality, user experience, and documentation. We encourage you to read research papers, industry reports, and ethical guidelines on AI trustworthiness. Just think critically and creatively about the role of trustworthiness in AI applications.
 

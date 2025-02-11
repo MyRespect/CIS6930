@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2024-09-11T18:01:00+4:30
+date: 2025-01-29T18:01:00+4:30
 title: Generative Modeling (Part II)
 tldr: "An introduction to variational autoencoder and diffusion models."
 thumbnail: /static_files/presentations/lec.jpg
 links:
-    - url: /static_files/cis6930_0911.pdf
+    - url: /static_files/cis6930_05.pdf
       name: slides
 ---
 **Suggested Readings:**
