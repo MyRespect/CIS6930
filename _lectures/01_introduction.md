@@ -9,4 +9,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- [HHS Trustworthy AI Playbook](https://www.hhs.gov/sites/default/files/hhs-trustworthy-ai-playbook.pdf)
+- [HHS Trustworthy AI Playbook](/static_files/hhs-trustworthy-ai-playbook.pdf)
